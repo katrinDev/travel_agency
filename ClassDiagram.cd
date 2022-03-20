@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="User">
+    <Position X="13.5" Y="3.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AABBAAAAAAAAgAAAAAAAAAAAAAAABAAAgAAIAgAAUAA=</HashCode>
+      <FileName>myLib.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date">
+    <Position X="11" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>myLib.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Duration&lt;T&gt;">
+    <Position X="13.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAACAAAAAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>myLib.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tour">
+    <Position X="11" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAIAAAAAAAAAAAAACQAAEAAAAAQAAgAkAAAAQgA=</HashCode>
+      <FileName>myLib.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client">
+    <Position X="8.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAEAQAAAAAAAAAAAAAEAAAAAAAEAAAgAAAAAAAAQgQ=</HashCode>
+      <FileName>myLib.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cool_Vehicle::Vehicle">
+    <Position X="3.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAQAAABAABAQQAgAAAAAAAAAA=</HashCode>
+      <FileName>myLib.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cool_Vehicle::Plane">
+    <Position X="5.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAgAIAAAAAAAA=</HashCode>
+      <FileName>myLib.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cool_Vehicle::Bus">
+    <Position X="1.75" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>myLib.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Cool_Vehicle::Car">
+    <Position X="3.5" Y="6" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>myLib.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Order">
+    <Position X="8.25" Y="3.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABEAAAAAIAgAAAAABAAAAQAKAAAAAAQAAAAABCgAAgA=</HashCode>
+      <FileName>myLib.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
