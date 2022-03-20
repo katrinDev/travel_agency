@@ -6,10 +6,10 @@
 
 using namespace std;
 
-const string file_users = "D:\\BSUIR\\3 semester\\CourseWork\\Files\\Users.txt";
-const string file_clients = "D:\\BSUIR\\3 semester\\CourseWork\\Files\\Clients.txt";
-const string file_tours = "D:\\BSUIR\\3 semester\\CourseWork\\Files\\Tours.txt";
-const string file_orders = "D:\\BSUIR\\3 semester\\CourseWork\\Files\\Orders.txt";
+const string file_users = "Files\\Users.txt";
+const string file_clients = "Files\\Clients.txt";
+const string file_tours = "Files\\Tours.txt";
+const string file_orders = "Files\\Orders.txt";
 
 
 class User {

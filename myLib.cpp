@@ -326,7 +326,7 @@ void Authentication(int num) {
     string l, p, log, pass;
 
     if (!auth) {
-        cout << "Ошибка при открытии файла!" << endl;
+        cout << "\tОшибка при открытии файла!" << endl;
         return;
     }
 
@@ -444,7 +444,7 @@ void Authentication(int num) {
                 auth.close();
                 auth.open(file_users);
                 if (!auth.is_open()) {
-                    cout << "Ошибка при открытии файла!" << endl;
+                    cout << "\tОшибка при открытии файла!" << endl;
                     return;
                 }
             }
